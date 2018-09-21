@@ -1,0 +1,26 @@
+_repo: Love-s-Old-Sweet-Song-A-sheaf-of-latter-day-love-poems-gathered-from-many-sources_54148
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Ellwanger, George H. (George Herman)
+    alias: Ellwanger, George Herman
+    birthdate: 1848
+    deathdate: 1906
+    gutenberg_agent_id: '47730'
+    url: http://www.gutenberg.org/2009/agents/47730
+description: ''
+gutenberg_issued: '2017-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Love poetry'
+- GITenberg
+title: "Love's Old Sweet Song\r\nA sheaf of latter-day love-poems gathered from many\
+  \ sources"
+url: http://www.gutenberg.org/ebooks/54148
